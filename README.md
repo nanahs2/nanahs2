@@ -1,6 +1,4 @@
-
-
-
+<img src="./dancing.gif" width="30" alt="GIF decorativo"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=F7F7F7&width=435&lines=ol%C3%A1+pessoas%2C+eu+me+chamo+ana;mas+pode+me+chamar+de+nana;seja+muito+bem-vindo%28a%29!)](https://git.io/typing-svg)
 
