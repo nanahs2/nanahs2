@@ -1,7 +1,7 @@
 
 ✧ ─────────────── ⋆⋅☆⋅⋆ ─────────────── ✧
 
-### ୨୧ — about me <img src="./decoracao1.gif" width="100" alt="GIF decorativo"/>
+### ୨୧ — about me <img src="./d" width="100" alt="GIF decorativo"/>
 
 
 ୨ৎ · uma pessoinha curiosa 
