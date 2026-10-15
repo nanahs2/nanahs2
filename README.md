@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**nanahs2/nanahs2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✧ ─────────────── ⋆⋅☆⋅⋆ ─────────────── ✧
 
-Here are some ideas to get you started:
+### ୨୧ — about me <img src="./decoracao1.gif" width="100" alt="GIF decorativo"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+୨ৎ · uma pessoinha curiosa 
+୨ৎ · aprendendo programação  
+୨ৎ · criando projetos e explorando ideias
+୨ৎ · feliz na simplicidade ☕
+
+✧ ─────────────── ⋆⋅☆⋅⋆ ─────────────── ✧
+
+### ⚝ — foco de aprendizagem no momento:
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=white)
+
+✧ ─────────────── ⋆⋅☆⋅⋆ ─────────────── ✧
+
+</div>
