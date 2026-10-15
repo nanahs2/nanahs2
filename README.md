@@ -5,8 +5,11 @@
 
 
 ୨ৎ · uma pessoinha curiosa 
+
 ୨ৎ · aprendendo programação  
+
 ୨ৎ · criando projetos e explorando ideias
+
 ୨ৎ · feliz na simplicidade ☕
 
 ✧ ─────────────── ⋆⋅☆⋅⋆ ─────────────── ✧
